@@ -26,6 +26,10 @@ The dataset used in this project contains various properties of potential perovs
 - **formation_energy (eV/atom)**: The energy required to form the material, also related to stability.
 - **Elemental Properties**: Features like heat of vaporization, ionization energy, density, and more.
 
+## Citation
+
+The data has been taken from the work of Dane Morgan, available on figshare. [Morgan, Dane (2018). *Machine Learning Materials Datasets*. figshare. Dataset.](https://doi.org/10.6084/m9.figshare.7017254.v5)
+
 
 
 

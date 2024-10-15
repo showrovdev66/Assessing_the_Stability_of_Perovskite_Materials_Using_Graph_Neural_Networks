@@ -26,10 +26,6 @@ The dataset used in this project contains various properties of potential perovs
 - **formation_energy (eV/atom)**: The energy required to form the material, also related to stability.
 - **Elemental Properties**: Features like heat of vaporization, ionization energy, density, and more.
 
-## Project Structure
-- **data/**: Contains the dataset used for training and testing.
-- **notebooks/**: Jupyter notebooks for exploratory data analysis and model training.
-- **src/**: Source code for graph creation, GNN implementation, and training scripts.
-- **requirements.txt**: List of required Python packages for the project.
+
 
 

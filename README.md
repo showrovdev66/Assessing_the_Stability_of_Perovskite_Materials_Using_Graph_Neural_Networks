@@ -32,10 +32,4 @@ The dataset used in this project contains various properties of potential perovs
 - **src/**: Source code for graph creation, GNN implementation, and training scripts.
 - **requirements.txt**: List of required Python packages for the project.
 
-## Installation
-To run this project locally, follow these steps:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
